@@ -1,1 +1,2 @@
-consol.log("hello world")
+const pai ='hillo eve one';
+ 
